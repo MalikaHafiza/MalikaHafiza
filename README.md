@@ -9,10 +9,10 @@
   <img align="left" alt="Malika's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/malika-hafiza-pasha-1b37021a7/">
-  <img align="left" alt="Malika's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Malika's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/MalikaHafiza">
-  <img align="left" alt="Malika's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Malika's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/pashamalika/">
   <img align="left" alt="Malika's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -24,7 +24,7 @@
 <br/>
 <br/>
 
-I'm an Electronics & Telecommunication Engineering graduate from Mumbai University. I'm focusing on Data Science and Artificial Intelligence. I have always been interested in challenging work that provides twin benefit of career growth and personal development. 
+I'm an Electronics & Telecommunication Engineering graduate from Mumbai University. I'm focusing on Data Science and Artificial Intelligence. I love working on different Python Projects.
 
 ### Insights about me:
 
