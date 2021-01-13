@@ -1,6 +1,3 @@
-<!--
-**MalikaHafiza/MalikaHafiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hello there, I'm Malika 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MalikaHafiza&label=Views&color=blue&style=plastic" alt="MalikaHafiza" /> </p>
